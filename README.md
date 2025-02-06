@@ -20,7 +20,7 @@ In 2025, I'm ready to launch several new projects and tackle fresh challenges at
 - **Language Mastery:** I plan to extend my Duolingo streak as I master Chinese and French.
 - **Sustainable Living:** I aim to build a sustainable, bulletproof routine that fuels my creativity and overall well-being.
 
-### Professional Goals
+### Personal-Professional Goals
 - **Project Launches:**
   - **Hearthful App:** I'm developing an AI-powered event planning tool for large groups and family gatherings.
   - **Diagram Canvas Project:** I'm excited about this Next.js-based clone of ChatGPT Canvas, which generates and renders diagrams using Excalidraw JSON and Mermaid.js.
@@ -29,10 +29,22 @@ In 2025, I'm ready to launch several new projects and tackle fresh challenges at
       - My workflow uses shared states, functions (edges) to decide the next steps, and nodes that encapsulate the logic for the o3-mini and my fine-tuned 4o model agents.
       - The o3-mini agent works with the 4o model to refine the generated code. With this project, I can preview diagrams, edit them via natural language, upload images, copy code, and download diagrams as PNG.
     - > **Note:** I'll update this section with the latest details on finetuning, dataset generation, and workflow improvements.
+  - aipartpicker
+  - prompt engineering app for cursor, wep-app + companion vs-code extension: generate codebase vector stores on-device, store on cloud chat anywhere with multiple codebases + api & github integration on web for context aware prompt engineering
+  - stuff using the realtime api: chrome extension, vs-code ... codebase coach voice agents help you when you're in the vibe code mood
+  -  open source devtools and cli tooling 
+  - youtube-ai-extension
+- **Explore On-Device LLMs:** I think an interesting experiment would be to find a use case for a fine-tuned LLM that runs on my Android device—using a distillation dataset and a very small student model (Phi:3b).
+- learn UIKit and do a iOS, watchOS, macOS and visionOS apps with Swift
+- AI Closet Stylist; learns your wardrobe and dresses you like royalty. 
+    
+### Professional Career Goals
 - **Deepen My Expertise:** I plan to master SSR frameworks—including Angular (with Material)—and further my skills in Node.js solutions.
-- **Expand Containerization Skills:** I will continue working with Docker and eventually dive into Kubernetes.
+- **Expand Containerization Skills:** I will continue working with Docker.
 - **Enhance AI Pipelines:** I’m committed to advancing RAG pipelines through evaluations, callback tracing, guardrails, agentic improvements, embedding optimizations, and model tuning/distillation.
 - **Master LangGraph:** By the end of Q1 2025, I aim to fully understand LangGraph so that I can confidently discuss its transformative impact on AI workflows.
+
+I’m also watching the developments of DeepSeek R1, Kimi k1.5, optimization methods, and effective RL frameworks. I’ve found that fine-tuning and evaluations using these skills can vastly improve outputs. Additionally, I’m exploring model distillation—generating high-quality training data by using a larger reasoning model (teacher) to fine-tune a target student model. This system benefits from enhanced reasoning tokens and chain of thought responses, and it leverages tools such as web data integrations and vector stores (as a knowledge base of text/images) to further optimize performance.
 
 ---
 
