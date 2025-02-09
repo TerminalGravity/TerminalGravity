@@ -13,38 +13,35 @@ In 2025, I'm ready to launch several new projects and tackle fresh challenges at
 
 ---
 
-## My Goals for 2025
+# My Goals for 2025
 
-### Personal Goals
-- **Optimize My Productivity:** I will continue using the habit stacking method to design routines that keep me focused and energized—integrating breathwork, cardio, and regular walks.
-- **Language Mastery:** I plan to extend my Duolingo streak as I master Chinese and French.
-- **Sustainable Living:** I aim to build a sustainable, bulletproof routine that fuels my creativity and overall well-being.
+## Personal Goals
+- **Boost Productivity:** Use habit stacking to create routines incorporating breathwork, cardio, and walks for focus and energy.
+- **Learn Languages:** Maintain my Duolingo streak to master Chinese and French.
+- **Live Sustainably:** Build a sustainable routine that supports creativity and well-being.
 
-### Personal-Professional Goals
-- **Project Launches:**
-  - **Hearthful App:** I'm developing an AI-powered event planning tool for large groups and family gatherings.
-  - **Diagram Canvas Project:** I'm excited about this Next.js-based clone of ChatGPT Canvas, which generates and renders diagrams using Excalidraw JSON and Mermaid.js.
-    - **Tech Highlights:**
-      - I built it using **LangGraph** to orchestrate agent workflows modeled as graphs.
-      - My workflow uses shared states, functions (edges) to decide the next steps, and nodes that encapsulate the logic for the o3-mini and my fine-tuned 4o model agents.
-      - The o3-mini agent works with the 4o model to refine the generated code. With this project, I can preview diagrams, edit them via natural language, upload images, copy code, and download diagrams as PNG.
-    - > **Note:** I'll update this section with the latest details on finetuning, dataset generation, and workflow improvements.
-  - aipartpicker
-  - prompt engineering app for cursor, wep-app + companion vs-code extension: generate codebase vector stores on-device, store on cloud chat anywhere with multiple codebases + api & github integration on web for context aware prompt engineering
-  - stuff using the realtime api: chrome extension, vs-code ... codebase coach voice agents help you when you're in the vibe code mood
-  -  open source devtools and cli tooling 
-  - youtube-ai-extension
-- **Explore On-Device LLMs:** I think an interesting experiment would be to find a use case for a fine-tuned LLM that runs on my Android device—using a distillation dataset and a very small student model (Phi:3b).
-- learn UIKit and do a iOS, watchOS, macOS and visionOS apps with Swift
-- AI Closet Stylist; learns your wardrobe and dresses you like royalty. 
-    
-### Professional Career Goals
-- **Deepen My Expertise:** I plan to master SSR frameworks—including Angular (with Material)—and further my skills in Node.js solutions.
-- **Expand Containerization Skills:** I will continue working with Docker.
-- **Enhance AI Pipelines:** I’m committed to advancing RAG pipelines through evaluations, callback tracing, guardrails, agentic improvements, embedding optimizations, and model tuning/distillation.
-- **Master LangGraph:** By the end of Q1 2025, I aim to fully understand LangGraph so that I can confidently discuss its transformative impact on AI workflows.
+## Personal-Professional Goals
+- **Launch Projects:**
+  - **Hearthful App:** An AI-powered event planning tool for large groups and family gatherings.
+  - **Diagram Canvas Project:** A Next.js-based tool for generating and editing diagrams using Excalidraw JSON and Mermaid.js.
+    - Built with **LangGraph** for agent workflows, shared states, and nodes for logic.
+    - Features include diagram previews, natural language edits, image uploads, code copying, and PNG downloads.
+  - **AI Part Picker**
+  - **Prompt Engineering App:** Web app + VS Code extension for on-device codebase vector stores, cloud storage, and context-aware prompts.
+  - **Realtime API Tools:** Chrome and VS Code extensions for voice-assisted coding.
+  - **Open Source DevTools:** CLI tools and developer utilities.
+  - **YouTube AI Extension**
+- **On-Device LLMs:** Experiment with fine-tuned LLMs on Android using small models like Phi-3b.
+- **iOS Development:** Learn UIKit and build apps for iOS, watchOS, macOS, and visionOS.
+- **AI Closet Stylist:** An AI that learns your wardrobe and suggests outfits.
 
-I’m also watching the developments of DeepSeek R1, Kimi k1.5, optimization methods, and effective RL frameworks. I’ve found that fine-tuning and evaluations using these skills can vastly improve outputs. Additionally, I’m exploring model distillation—generating high-quality training data by using a larger reasoning model (teacher) to fine-tune a target student model. This system benefits from enhanced reasoning tokens and chain of thought responses, and it leverages tools such as web data integrations and vector stores (as a knowledge base of text/images) to further optimize performance.
+## Professional Goals
+- **Master SSR Frameworks:** Deepen expertise in Angular (with Material) and Node.js.
+- **Advance Containerization:** Continue working with Docker.
+- **Improve AI Pipelines:** Enhance RAG pipelines with evaluations, callback tracing, guardrails, agentic improvements, and model tuning.
+- **Master LangGraph:** Fully understand LangGraph by Q1 2025 to optimize AI workflows.
+
+I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods, and RL frameworks. Exploring model distillation to fine-tune smaller models using high-quality data from larger models, leveraging web data, vector stores, and reasoning tokens for better performance.
 
 ---
 
@@ -77,13 +74,18 @@ I’m also watching the developments of DeepSeek R1, Kimi k1.5, optimization met
 
 ### AI / ML & Data
 - **Techniques & Methodologies:**
-  - I specialize in LLM Finetuning & Evaluation, LLM Distillation, GenAI Prompt Engineering, and Reasoning Models & Chain of Thought Techniques.
+  - I specialize in **LLM Finetuning & Evaluation**, **LLM Distillation**, **GenAI Prompt Engineering**, and **Reasoning Models & Chain of Thought Techniques**.
+  
 - **Frameworks & Libraries:**
-  - ![LangGraph JS/Py/TS](https://img.shields.io/badge/-LangGraph-FF6F00?style=flat)
-  - ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-  - ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)
-  - ![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat)
-  - ![OpenAI APIs](https://img.shields.io/badge/-OpenAI_API-412991?style=flat)
+  - ![LangGraph JS/Py/TS](https://img.shields.io/badge/-LangGraph-FF6F00?style=flat&logo=langgraph&logoColor=white)
+  - ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
+  - ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat&logo=llamaindex&logoColor=white)
+  - ![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat&logo=crewai&logoColor=white)
+  - ![OpenAI APIs](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+
+- **Icons & Badges:**
+  - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Database & Cloud
 - **Databases & Hosting:**
