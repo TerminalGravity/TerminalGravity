@@ -45,9 +45,9 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
 
 ---
 
-## My Tech Stack & Tools
+# My Tech Stack & Tools
 
-### Frontend Development
+## Frontend Development
 - **Languages & Frameworks:**
   - ![Angular Material](https://img.shields.io/badge/-Angular_Material-DD0031?style=flat&logo=angular&logoColor=white)
   - ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white)
@@ -66,13 +66,13 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
 - **State Management & Libraries:**
   - ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-### Backend & Runtime
+## Backend & Runtime
 - **Languages & Frameworks:**
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
   - ![Bun.js](https://img.shields.io/badge/-Bun.js-000000?style=flat)
 
-### LLM Ops 
+## LLM Ops 
   - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
   - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 - **Techniques & Methodologies:**
@@ -112,7 +112,7 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
   - ![Milvus](https://img.shields.io/badge/-Milvus-000000?style=flat&logo=milvus&logoColor=white)
   - ![Weaviate](https://img.shields.io/badge/-Weaviate-000000?style=flat&logo=weaviate&logoColor=white)
 
-### Database & Cloud
+## Database & Cloud
 - **Databases & Hosting:**
   - ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=flat&logo=postgresql&logoColor=white)
   - ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat)
@@ -122,7 +122,7 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
   - ![Google Cloud Console](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
   - ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?style=flat&logo=google)
 
-### Project Management & Collaboration
+## Project Management & Collaboration
 - **Tools:**
   - ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
   - ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
@@ -131,16 +131,16 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
   - ![make.com](https://img.shields.io/badge/-make.com-FF3E00?style=flat)
   - ![n8n](https://img.shields.io/badge/-n8n-00BFFF?style=flat)
 
-### Design & Visualization
+## Design & Visualization
 - **Tools:**
   - ![Excalidraw](https://img.shields.io/badge/-Excalidraw-1ABC9C?style=flat)
   - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## My Projects & Initiatives
+# My Projects & Initiatives
 
-### Diagram Canvas Project (Upcoming)
+## Diagram Canvas Project (In QA)
 I'm working on a clone of ChatGPT Canvas that generates and renders diagrams using Excalidraw JSON and Mermaid.js.  
 - **Tech Highlights:**
   - I built this as a Next.js app powered by **LangGraph**, which models agent workflows as graphs.
@@ -152,7 +152,7 @@ I'm working on a clone of ChatGPT Canvas that generates and renders diagrams usi
   
 > **Note:** I'll update this section with the latest details on finetuning, dataset generation, and workflow improvements.
 
-### Hearthful App (Prototype)
+## Meetful App (Prototype)
 I'm developing an AI-powered event planning tool for large groups or family gatherings. I started prototyping this project in December, and I can't wait to see it come to life.
 
 ### Other Initiatives
