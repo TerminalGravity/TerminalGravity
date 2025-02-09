@@ -151,9 +151,9 @@ At All Digital Rewards, I've experienced tremendous growth:
 ## Connect with Me
 
 - **Personal Website:** [terminalgravity.dev (Coming Soon)](https://terminalgravity.dev)  
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [My LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/jack-f-59268b113/))  
+- **X:** [@JackFelke](https://x.com/jackfelke)  
+- **Email:** [jack@rinngroup.com](mailto:jack@rinngroup.com)
 
 ---
 
