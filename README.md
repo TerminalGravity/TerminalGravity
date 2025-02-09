@@ -73,6 +73,8 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
   - ![Bun.js](https://img.shields.io/badge/-Bun.js-000000?style=flat)
 
 ### AI / ML & Data
+  - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 - **Techniques & Methodologies:**
   - I specialize in:
     - ![LLM Finetuning & Evaluation](https://img.shields.io/badge/-LLM_Finetuning_&_Evaluation-FF6F00?style=flat&logo=openai&logoColor=white)
@@ -109,10 +111,6 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
   - ![Chroma](https://img.shields.io/badge/-Chroma-000000?style=flat&logo=chroma&logoColor=white)
   - ![Milvus](https://img.shields.io/badge/-Milvus-000000?style=flat&logo=milvus&logoColor=white)
   - ![Weaviate](https://img.shields.io/badge/-Weaviate-000000?style=flat&logo=weaviate&logoColor=white)
-
-- **Icons & Badges:**
-  - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Database & Cloud
 - **Databases & Hosting:**
