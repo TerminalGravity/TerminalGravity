@@ -72,7 +72,7 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
   - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
   - ![Bun.js](https://img.shields.io/badge/-Bun.js-000000?style=flat)
 
-### AI / ML & Data
+### LLM Ops 
   - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
   - ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 - **Techniques & Methodologies:**
