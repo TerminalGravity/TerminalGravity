@@ -1,7 +1,7 @@
 # Hi, I'm Jack Felke 👋  
 ### I'm a Professional AI Engineer & Developer
 
-I'm Jack Felke—a male AI Engineer at All Digital Rewards. I build innovative, commercial-grade projects and open source tools that push the envelope in AI and full-stack development. I'm not just an enthusiast; I work professionally on solutions that scale.
+I'm Jack Felke— AI Engineer at All Digital Rewards. I build innovative, commercial-grade projects and open source tools that push the envelope in AI and full-stack development. I'm not just an enthusiast; I work professionally on solutions that scale.
 
 ---
 
