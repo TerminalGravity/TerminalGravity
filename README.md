@@ -74,8 +74,12 @@ I’m also tracking advancements in DeepSeek R1, Kimi k1.5, optimization methods
 
 ### AI / ML & Data
 - **Techniques & Methodologies:**
-  - I specialize in **LLM Finetuning & Evaluation**, **LLM Distillation**, **GenAI Prompt Engineering**, and **Reasoning Models & Chain of Thought Techniques**.
-  
+  - I specialize in:
+    - ![LLM Finetuning & Evaluation](https://img.shields.io/badge/-LLM_Finetuning_&_Evaluation-FF6F00?style=flat&logo=openai&logoColor=white)
+    - ![LLM Distillation](https://img.shields.io/badge/-LLM_Distillation-412991?style=flat&logo=openai&logoColor=white)
+    - ![GenAI Prompt Engineering](https://img.shields.io/badge/-GenAI_Prompt_Engineering-000000?style=flat&logo=langchain&logoColor=white)
+    - ![Reasoning Models & Chain of Thought](https://img.shields.io/badge/-Reasoning_Models_&_CoT-FF6F00?style=flat&logo=openai&logoColor=white)
+
 - **Frameworks & Libraries:**
   - ![LangGraph JS/Py/TS](https://img.shields.io/badge/-LangGraph-FF6F00?style=flat&logo=langgraph&logoColor=white)
   - ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
