@@ -1,210 +1,91 @@
- Hi, I'm Jack Felke 👋 
- ### I'm a Professional AI Engineer & Developer
+# Hi, I'm Jack Felke 👋
 
- I'm Jack Felke— AI Engineer at All Digital Rewards. I build innovative, commercial-grade projects and open source tools that push the envelope in AI and full-stack development. I'm not just an enthusiast; I work professionally on solutions that scale.
+I'm a **Professional AI Engineer & Developer** at All Digital Rewards, building innovative, commercial-grade projects and open source tools that push the envelope in AI and full-stack development.
 
- ---
+---
 
- ## About Me
+## About Me
 
- I believe in continuous improvement both personally and professionally. Inspired by the habit stacking method from *Atomic Habits* by James Clear, I design bulletproof routines that include breathwork, cardio, and walks with Stella. I'm proud of my current 42-day streak on Duolingo as I work on mastering both Chinese and French.
+I believe in continuous improvement both personally and professionally. Inspired by the habit stacking method from *Atomic Habits* by James Clear, I design bulletproof routines that include breathwork, cardio, and walks with Stella.
 
- In 2026, I'm accelerating my focus on AI infrastructure, MCP (Model Context Protocol) development, and next-generation developer tools. I've been shipping innovative projects that enhance Claude's capabilities and exploring agentic trading systems. I'm excited about building production-grade AI applications while maintaining a healthy, balanced lifestyle.
+In 2026, I'm accelerating my focus on **AI infrastructure**, **MCP (Model Context Protocol) development**, and next-generation developer tools. I've been shipping innovative projects that enhance Claude's capabilities and exploring agentic trading systems while maintaining a healthy, balanced lifestyle.
 
- ---
+---
 
- # My Goals for 2026
+## 2026 Goals & Focus
 
- ## Personal Goals
- - **Maintain Wellness:** Continue my Duolingo streak and develop sustainable routines with breathwork, cardio, and walks.
- - - **Language Mastery:** Master Chinese and French through consistent daily practice.
-   - - **Live Sustainably:** Build creative momentum through balanced lifestyle practices.
-    
-     - ## Personal-Professional Goals
-     - - **Shipped & In Development:**
-       -   - **vizcraft:** AI-Native Diagramming MCP Server for Claude Code - Create, update, and manage interactive diagrams with tidraw integration. ✨ *Recently shipped*
-           -   - **SystemPulse:** Lightweight native macOS menubar app for real-time system monitoring (Swift).
-               -   - **codebrain:** Persistent context index for AI coding agents - enabling smarter agent workflows.
-                   -   - **claude-orchestrator-mcp:** MCP server for coordinating multiple Claude Code sessions across related projects.
-                       -   - **Nano-Banana-MCP:** A Nano Banana MCP server for seamless integrations.
-                           -   - **spy-Odte-agency:** SPY ODTE options trading agency with agentic reasoning.
-                            
-                               -   - **Planned 2026 Projects:**
-                                   -   - **MCP Ecosystem Tools:** Build more Model Context Protocol integrations and developer tools.
-                                       -   - **Advanced AI Agents:** Develop sophisticated multi-agent systems with LangGraph and specialized reasoning.
-                                           -   - **iOS/Native Development:** Expand to iOS, watchOS, macOS, and visionOS apps.
-                                               -   - **Fine-tuned Models:** Explore model distillation and fine-tuning with specialized datasets.
-                                                   -   - **Open Source DevTools:** CLI tools and developer utilities for the AI era.
-                                                    
-                                                       - ## Professional Goals
-                                                       - - **Deepen MCP Expertise:** Master Model Context Protocol patterns and best practices.
-                                                         - - **Advance AI Agents:** Build production-grade agentic systems with improved reasoning and multi-step workflows.
-                                                           - - **Scale ML Pipelines:** Enhance RAG pipelines with evaluations, callback tracing, guardrails, and model optimization.
-                                                             - - **Master Reasoning Models:** Work with advanced reasoning models (DeepSeek R1, o3-mini) for complex problem-solving.
-                                                               - - **Containerization & DevOps:** Continue advancing Docker expertise and explore Kubernetes for production deployments.
-                                                                 - - **Full-Stack Excellence:** Deepen expertise in Angular (Material), Node.js/TypeScript, and modern SSR frameworks.
-                                                                  
-                                                                   - ---
+### Personal Development
+- **Wellness:** Maintain daily Duolingo streak while mastering Chinese and French
+- - **Sustainability:** Build creative momentum through consistent, balanced routines
+ 
+  - ### Active Projects
+  - I'm actively shipping and maintaining several projects:
+ 
+  - | Project | Focus | Status |
+  - |---------|-------|--------|
+  - | **vizcraft** | AI-Native Diagramming MCP Server for Claude Code | ✨ Recently shipped |
+  - | **SystemPulse** | Native macOS system monitoring (Swift) | Active |
+  - | **codebrain** | Context index for AI coding agents | In development |
+  - | **claude-orchestrator-mcp** | Multi-agent session coordination | In development |
+  - | **spy-Odte-agency** | SPY ODTE options trading agent | In development |
+ 
+  - ### 2026 Priorities
+  - - **Master MCP patterns** for Claude ecosystem integration
+    - - **Build agentic systems** with advanced reasoning (DeepSeek R1, o3-mini)
+      - - **Scale AI pipelines** with evaluations, guardrails, and model optimization
+        - - **Expand native development** to iOS, watchOS, and visionOS
+          - - **Deepen full-stack expertise** in Angular, Node.js/TypeScript, and modern frameworks
+           
+            - ---
 
-                                                                   # My Tech Stack & Tools
+            ## Technical Stack
 
-                                                                   ## Frontend Development
-                                                                   - **Languages & Frameworks:**
-                                                                   -   - ![Angular Material](https://img.shields.io/badge/-Angular_Material-DD0031?style=flat&logo=angular&logoColor=white)
-                                                                       -   - ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white)
-                                                                           -   - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-                                                                               -   - ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-                                                                                   -   - ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-                                                                                       -   - ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-                                                                                        
-                                                                                           - - **UI Component Libraries:**
-                                                                                             -   - ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-181717?style=flat)
-                                                                                                 -   - ![aceternity ui](https://img.shields.io/badge/-aceternity_ui-000000?style=flat)
-                                                                                                  
-                                                                                                     - - **UI Design AI Assistants:**
-                                                                                                       -   - ![v0.dev](https://img.shields.io/badge/-v0.dev-000000?style=flat)
-                                                                                                           -   - ![lovable.dev](https://img.shields.io/badge/-lovable.dev-000000?style=flat)
-                                                                                                            
-                                                                                                               - - **State Management:**
-                                                                                                                 -   - ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-                                                                                                                  
-                                                                                                                     - ## Backend & Runtime
-                                                                                                                     - - **Languages & Frameworks:**
-                                                                                                                       -   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-                                                                                                                           -   - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-                                                                                                                               -   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-                                                                                                                                   -   - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-                                                                                                                                       -   - ![Bun.js](https://img.shields.io/badge/-Bun.js-000000?style=flat)
-                                                                                                                                        
-                                                                                                                                           - ## AI & LLM Ops
-                                                                                                                                           - - **Model Context Protocol:**
-                                                                                                                                             -   - ![MCP](https://img.shields.io/badge/-MCP_Servers-000000?style=flat)
-                                                                                                                                                 -   - vizcraft, claude-orchestrator-mcp, codebrain
-                                                                                                                                                  
-                                                                                                                                                     - - **LLM Platforms & APIs:**
-                                                                                                                                                       -   - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-                                                                                                                                                           -   - ![Anthropic Claude](https://img.shields.io/badge/-Anthropic_Claude-000000?style=flat)
-                                                                                                                                                               -   - ![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?style=flat)
-                                                                                                                                                                   -   - ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
-                                                                                                                                                                    
-                                                                                                                                                                       - - **AI Frameworks & Libraries:**
-                                                                                                                                                                         -   - ![LangGraph](https://img.shields.io/badge/-LangGraph-FF6F00?style=flat)
-                                                                                                                                                                             -   - ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-                                                                                                                                                                                 -   - ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat)
-                                                                                                                                                                                     -   - ![CrewAI](https://img.shields.io/badge/-CrewAI-000000?style=flat)
-                                                                                                                                                                                         -   - ![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat)
-                                                                                                                                                                                          
-                                                                                                                                                                                             - - **Specializations:**
-                                                                                                                                                                                               -   - LLM Fine-tuning & Distillation
-                                                                                                                                                                                                   -   - Prompt Engineering & Chain-of-Thought
-                                                                                                                                                                                                       -   - Reasoning Models & Advanced Reasoning
-                                                                                                                                                                                                           -   - RAG Optimization & Evaluations
-                                                                                                                                                                                                               -   - Multi-Agent Orchestration
-                                                                                                                                                                                                                
-                                                                                                                                                                                                                   - ## Vector Databases & Storage
-                                                                                                                                                                                                                   - - ![Qdrant](https://img.shields.io/badge/-Qdrant-000000?style=flat)
-                                                                                                                                                                                                                     - - ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat)
-                                                                                                                                                                                                                       - - ![Supabase PGVector](https://img.shields.io/badge/-Supabase_PGVector-3ECF8E?style=flat)
-                                                                                                                                                                                                                         - - ![Chroma](https://img.shields.io/badge/-Chroma-000000?style=flat)
-                                                                                                                                                                                                                           - - ![FAISS](https://img.shields.io/badge/-FAISS-000000?style=flat)
-                                                                                                                                                                                                                            
-                                                                                                                                                                                                                             - ## Database & Cloud
-                                                                                                                                                                                                                             - - **Databases & Hosting:**
-                                                                                                                                                                                                                               -   - ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=flat&logo=postgresql&logoColor=white)
-                                                                                                                                                                                                                                   -   - ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat)
-                                                                                                                                                                                                                                       -   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                           - - **Cloud & DevOps:**
-                                                                                                                                                                                                                                             -   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-                                                                                                                                                                                                                                                 -   - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-                                                                                                                                                                                                                                                     -   - ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws)
-                                                                                                                                                                                                                                                         -   - ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                             - ## Project Management & Collaboration
-                                                                                                                                                                                                                                                             - - ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-                                                                                                                                                                                                                                                               - - ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-                                                                                                                                                                                                                                                                 - - ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-                                                                                                                                                                                                                                                                   - - ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
-                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                     - ## Design & Visualization
-                                                                                                                                                                                                                                                                     - - ![Excalidraw](https://img.shields.io/badge/-Excalidraw-1ABC9C?style=flat)
-                                                                                                                                                                                                                                                                       - - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                         - ---
-                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                         # My Projects & Initiatives
-                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                         ## Featured 2026 Projects
-                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                         ### vizcraft - AI-Native Diagramming MCP Server 🚀
-                                                                                                                                                                                                                                                                         An innovative Model Context Protocol server that integrates Claude Code with AI-powered diagramming capabilities.
-                                                                                                                                                                                                                                                                         - **Tech Stack:** TypeScript, MCP, Excalidraw JSON, tidraw
-                                                                                                                                                                                                                                                                         - - **Status:** Recently shipped and actively maintained
-                                                                                                                                                                                                                                                                           - - **Features:** Create, update, and manage interactive diagrams directly from Claude Code
-                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                             - ### SystemPulse - macOS System Monitor 📊
-                                                                                                                                                                                                                                                                             - A lightweight, native macOS menubar app for real-time system monitoring.
-                                                                                                                                                                                                                                                                             - - **Tech Stack:** Swift, native macOS APIs
-                                                                                                                                                                                                                                                                               - - **Status:** Active development
-                                                                                                                                                                                                                                                                                 - - **Features:** Real-time system metrics, lightweight performance, native look & feel
-                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                   - ### codebrain - AI Agent Context Index 🧠
-                                                                                                                                                                                                                                                                                   - Persistent context index for AI coding agents, enabling intelligent code understanding.
-                                                                                                                                                                                                                                                                                   - - **Tech Stack:** TypeScript, Vector embeddings
-                                                                                                                                                                                                                                                                                     - - **Status:** In development
-                                                                                                                                                                                                                                                                                       - - **Use Cases:** Code agents, intelligent assistants, multi-file analysis
-                                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                         - ### claude-orchestrator-mcp - Multi-Agent Coordinator 🎼
-                                                                                                                                                                                                                                                                                         - MCP server for coordinating multiple Claude Code sessions across related projects.
-                                                                                                                                                                                                                                                                                         - - **Tech Stack:** TypeScript, MCP, Agent orchestration
-                                                                                                                                                                                                                                                                                           - - **Status:** Active development
-                                                                                                                                                                                                                                                                                             - - **Features:** Cross-session coordination, workflow management
-                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                               - ## Other Active Projects
-                                                                                                                                                                                                                                                                                               - - **spy-Odte-agency:** SPY ODTE options trading agent with advanced reasoning
-                                                                                                                                                                                                                                                                                                 - - **Nano-Banana-MCP:** Nano Banana MCP server integrations
-                                                                                                                                                                                                                                                                                                   - - **mcp-atlassian:** Atlassian/Jira integration via MCP
-                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                     - ---
-                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                     ## My Professional Journey
-                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                     At All Digital Rewards, I've grown from building foundational AI solutions to architecting next-generation developer tools:
-                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                     - **Key Achievements:**
-                                                                                                                                                                                                                                                                                                     -   - Deployed production AI chatbots with role-based context access and vector store infrastructure
-                                                                                                                                                                                                                                                                                                         -   - Built scalable solutions using TypeScript, Bun.js, Docker, TypeORM, and Qdrant
-                                                                                                                                                                                                                                                                                                             -   - Designed and implemented complex RAG pipelines with evaluations and callback tracing
-                                                                                                                                                                                                                                                                                                                 -   - Created MCP servers and integrations that enhance developer productivity
-                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                     - - **Current Focus:**
-                                                                                                                                                                                                                                                                                                                       -   - Building with Model Context Protocol for Claude ecosystem
-                                                                                                                                                                                                                                                                                                                           -   - Developing agentic systems with advanced reasoning capabilities
-                                                                                                                                                                                                                                                                                                                               -   - Optimizing AI pipelines and model performance
-                                                                                                                                                                                                                                                                                                                                   -   - Contributing to open source AI infrastructure
-                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                       - - **My Philosophy:**
-                                                                                                                                                                                                                                                                                                                                         -   Consistency compounds. I approach coding like strength training—every commit, every refactor, and every shipped feature builds momentum. I believe in shipping quality products while continuously learning and improving.
-                                                                                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                         -   ---
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                         ## Connect with Me
-                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                         - **GitHub:** [@TerminalGravity](https://github.com/TerminalGravity)
-                                                                                                                                                                                                                                                                                                                                         - - **LinkedIn:** [Jack Felke](https://www.linkedin.com/in/jack-f-59268b113/)
-                                                                                                                                                                                                                                                                                                                                           - - **X (Twitter):** [@JackFelke](https://x.com/JackFelke)
-                                                                                                                                                                                                                                                                                                                                             - - **Email:** [jrinnfelke@gmail.com](mailto:jrinnfelke@gmail.com)
-                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                               - ---
-                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                               ## GitHub Stats
-                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                               ![Jack Felke's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerminalGravity&show_icons=true&theme=dark)
-                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                               ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGravity&layout=compact&theme=dark)
-                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                               ---
-                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                               ## Visitor Count
-                                                                                                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                               ![Visitor Count](https://profile-counter.glitch.me/TerminalGravity/count.svg)
+            ### Frontend
+            **Frameworks:** React, Next.js, Vue, Angular, Vite | **Languages:** TypeScript, Swift | **UI:** shadcn/ui, Material Design
+
+            ### Backend & Runtime
+            **Languages:** Node.js, TypeScript, Python | **Tools:** Flask, Bun.js, Docker
+
+            ### AI & LLM Operations
+            **Specializations:** LLM fine-tuning, prompt engineering, reasoning models, RAG optimization, multi-agent orchestration
+
+            **Platforms:** OpenAI, Anthropic Claude, DeepSeek, Google Gemini, HuggingFace
+
+            **Frameworks:** LangGraph, LangChain, LlamaIndex, CrewAI, Vercel AI SDK
+
+            **Vector Databases:** Qdrant, Pinecone, Supabase PGVector, Chroma, FAISS
+
+            ### Data & Infrastructure
+            **Databases:** PostgreSQL, MongoDB, Supabase | **Cloud:** Docker, Vercel, AWS, Google Cloud
+
+            ---
+
+            ## Professional Journey
+
+            At All Digital Rewards, I've grown from building foundational AI solutions to architecting next-generation developer tools:
+
+            **Key Achievements:**
+            - Deployed production AI chatbots with role-based context and vector store infrastructure
+            - - Built scalable TypeScript/Bun.js solutions with Docker, TypeORM, and Qdrant
+              - - Designed complex RAG pipelines with evaluations and callback tracing
+                - - Created MCP servers enhancing Claude ecosystem productivity
+                 
+                  - **Current Mindset:** Consistency compounds. Every commit, refactor, and shipped feature builds momentum. I believe in shipping quality products while continuously learning and improving.
+                 
+                  - ---
+
+                  ## Connect
+
+                  - **GitHub:** [@TerminalGravity](https://github.com/TerminalGravity)
+                  - - **LinkedIn:** [Jack Felke](https://www.linkedin.com/in/jack-f-59268b113/)
+                    - - **X:** [@JackFelke](https://x.com/JackFelke)
+                      - - **Email:** jrinnfelke@gmail.com
+                       
+                        - ---
+
+                        ## GitHub Stats
+
+                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TerminalGravity&show_icons=true&theme=dark)
+                        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGravity&layout=compact&theme=dark)
+
+                        ![Profile Views](https://profile-counter.glitch.me/TerminalGravity/count.svg)
