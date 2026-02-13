@@ -1,91 +1,67 @@
-# Hi, I'm Jack Felke 👋
+# Hey, I'm Jack 👋
 
-I'm a **Professional AI Engineer & Developer** at All Digital Rewards, building innovative, commercial-grade projects and open source tools that push the envelope in AI and full-stack development.
-
----
-
-## About Me
-
-I believe in continuous improvement both personally and professionally. Inspired by the habit stacking method from *Atomic Habits* by James Clear, I design bulletproof routines that include breathwork, cardio, and walks with Stella.
-
-In 2026, I'm accelerating my focus on **AI infrastructure**, **MCP (Model Context Protocol) development**, and next-generation developer tools. I've been shipping innovative projects that enhance Claude's capabilities and exploring agentic trading systems while maintaining a healthy, balanced lifestyle.
+AI Engineer at All Digital Rewards. I build developer tools, MCP servers, and agentic systems — mostly in TypeScript.
 
 ---
 
-## 2026 Goals & Focus
+## What I'm Building
 
-### Personal Development
-- **Wellness:** Maintain daily Duolingo streak while mastering Chinese and French
-- - **Sustainability:** Build creative momentum through consistent, balanced routines
- 
-  - ### Active Projects
-  - I'm actively shipping and maintaining several projects:
- 
-  - | Project | Focus | Status |
-  - |---------|-------|--------|
-  - | **vizcraft** | AI-Native Diagramming MCP Server for Claude Code | ✨ Recently shipped |
-  - | **SystemPulse** | Native macOS system monitoring (Swift) | Active |
-  - | **codebrain** | Context index for AI coding agents | In development |
-  - | **claude-orchestrator-mcp** | Multi-agent session coordination | In development |
-  - | **spy-Odte-agency** | SPY ODTE options trading agent | In development |
- 
-  - ### 2026 Priorities
-  - - **Master MCP patterns** for Claude ecosystem integration
-    - - **Build agentic systems** with advanced reasoning (DeepSeek R1, o3-mini)
-      - - **Scale AI pipelines** with evaluations, guardrails, and model optimization
-        - - **Expand native development** to iOS, watchOS, and visionOS
-          - - **Deepen full-stack expertise** in Angular, Node.js/TypeScript, and modern frameworks
-           
-            - ---
+### 🔥 Standout Projects
 
-            ## Technical Stack
+**[preflight](https://github.com/TerminalGravity/preflight)** — 24-tool MCP server for Claude Code that catches vague prompts before they burn tokens. Semantic session history search, cross-service contract awareness, correction pattern learning, and 12-category scorecards. Built from analyzing 9 months of real Claude Code usage data. *Published on npm.*
 
-            ### Frontend
-            **Frameworks:** React, Next.js, Vue, Angular, Vite | **Languages:** TypeScript, Swift | **UI:** shadcn/ui, Material Design
+**[vizcraft](https://github.com/TerminalGravity/vizcraft)** — AI-native diagramming MCP server using tldraw. Create, update, and manage interactive diagrams directly from Claude Code. 100+ commits and counting.
 
-            ### Backend & Runtime
-            **Languages:** Node.js, TypeScript, Python | **Tools:** Flask, Bun.js, Docker
+**[schwab-0dte-analyzer](https://github.com/TerminalGravity/schwab-0dte-analyzer)** — Real-time 0DTE options analysis tool using the Schwab API. Max pain calculations, volume/OI visualization, put/call ratios with live charts. Built with Bun, Hono, React, and lightweight-charts.
 
-            ### AI & LLM Operations
-            **Specializations:** LLM fine-tuning, prompt engineering, reasoning models, RAG optimization, multi-agent orchestration
+**[remodel-vision](https://github.com/TerminalGravity/remodel-vision)** — AI-powered property remodel visualization. Pulls real property data from Zillow/Redfin, renders 3D dollhouse views with Three.js, and generates photorealistic design concepts via Gemini.
 
-            **Platforms:** OpenAI, Anthropic Claude, DeepSeek, Google Gemini, HuggingFace
+### Also Active
 
-            **Frameworks:** LangGraph, LangChain, LlamaIndex, CrewAI, Vercel AI SDK
+- **[openclaw-swarm-security-audit](https://github.com/TerminalGravity/openclaw-swarm-security-audit)** — Red team / blue team security audit template using parallel Claude agents
+- **[vape-vending-tracker](https://github.com/TerminalGravity/vape-vending-tracker)** — Business operations tracker for Arizona vape vending
+- **[video-mcp](https://github.com/TerminalGravity/video-mcp)** — MCP server for AI video creation with Remotion rendering
+- **[cld-tmux](https://github.com/TerminalGravity/cld-tmux)** — Claude tmux session manager (8⭐, most starred repo)
 
-            **Vector Databases:** Qdrant, Pinecone, Supabase PGVector, Chroma, FAISS
+---
 
-            ### Data & Infrastructure
-            **Databases:** PostgreSQL, MongoDB, Supabase | **Cloud:** Docker, Vercel, AWS, Google Cloud
+## 2026 Quarterly Goals
 
-            ---
+### Q1 (Jan – Mar) ✈️
+- [ ] Ship preflight v4 with team collaboration features and shared config
+- [ ] Get schwab-0dte-analyzer to paper-trading stage with automated signals
+- [ ] Launch remodel-vision MVP with end-to-end property → render pipeline
+- [ ] Hit 25 stars across GitHub repos
 
-            ## Professional Journey
+### Q2 (Apr – Jun) 📈
+- [ ] Build a production 0DTE trading bot with risk management and journaling
+- [ ] Publish vizcraft to npm with docs and examples
+- [ ] Ship one new MCP server solving a real workflow problem
+- [ ] Start contributing to the OpenClaw/MCP ecosystem (PRs, not just repos)
 
-            At All Digital Rewards, I've grown from building foundational AI solutions to architecting next-generation developer tools:
+### Q3 (Jul – Sep) 🚀
+- [ ] Generate first revenue from a side project (vending tracker SaaS, trading bot, or MCP tooling)
+- [ ] Build and publish an iOS/macOS app (SystemPulse or something new in Swift)
+- [ ] Reach 100 npm downloads/week across MCP packages
+- [ ] Open source a reusable multi-agent orchestration pattern with docs
 
-            **Key Achievements:**
-            - Deployed production AI chatbots with role-based context and vector store infrastructure
-            - - Built scalable TypeScript/Bun.js solutions with Docker, TypeORM, and Qdrant
-              - - Designed complex RAG pipelines with evaluations and callback tracing
-                - - Created MCP servers enhancing Claude ecosystem productivity
-                 
-                  - **Current Mindset:** Consistency compounds. Every commit, refactor, and shipped feature builds momentum. I believe in shipping quality products while continuously learning and improving.
-                 
-                  - ---
+### Q4 (Oct – Dec) 🎯
+- [ ] Have 3+ MCP servers with active users beyond myself
+- [ ] Portfolio of shipped products: at least 2 with real users or revenue
+- [ ] Write and publish a technical post on MCP patterns or agentic architecture
+- [ ] End the year with a clean, maintained public GitHub — archive stale repos
 
-                  ## Connect
+---
 
-                  - **GitHub:** [@TerminalGravity](https://github.com/TerminalGravity)
-                  - - **LinkedIn:** [Jack Felke](https://www.linkedin.com/in/jack-f-59268b113/)
-                    - - **X:** [@JackFelke](https://x.com/JackFelke)
-                      - - **Email:** jrinnfelke@gmail.com
-                       
-                        - ---
+## Stack
 
-                        ## GitHub Stats
+**Languages:** TypeScript, Python, Swift, Rust
+**AI/LLM:** Claude, OpenAI, Gemini, DeepSeek · LangGraph, Vercel AI SDK, CrewAI
+**MCP:** Building and shipping Model Context Protocol servers for Claude Code
+**Frontend:** React, Next.js, Vue, Three.js, Vite
+**Backend:** Node.js, Bun, Hono, Flask, Docker
+**Data:** PostgreSQL, Supabase, Qdrant, LanceDB, MongoDB
 
-                        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TerminalGravity&show_icons=true&theme=dark)
-                        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGravity&layout=compact&theme=dark)
+---
 
-                        ![Profile Views](https://profile-counter.glitch.me/TerminalGravity/count.svg)
+**[@TerminalGravity](https://github.com/TerminalGravity)** · **[LinkedIn](https://www.linkedin.com/in/jack-f-59268b113/)**
