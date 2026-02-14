@@ -1,4 +1,10 @@
-# Hey, I'm Jack 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=TerminalGravity&fontAlign=50&fontAlignY=40&fontSize=50)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&lines=AI+Engineer+%7C+MCP+Server+Builder;I+build+agentic+systems+in+TypeScript;Claude+Code+power+user" alt="Typing SVG" />
+</p>
+
+## Hey, I'm Jack 👋
 
 AI Engineer at All Digital Rewards. I build developer tools, MCP servers, and agentic systems — mostly in TypeScript.
 
@@ -55,13 +61,18 @@ AI Engineer at All Digital Rewards. I build developer tools, MCP servers, and ag
 
 ## Stack
 
-**Languages:** TypeScript, Python, Swift, Rust
-**AI/LLM:** Claude, OpenAI, Gemini, DeepSeek · LangGraph, Vercel AI SDK, CrewAI
-**MCP:** Building and shipping Model Context Protocol servers for Claude Code
-**Frontend:** React, Next.js, Vue, Three.js, Vite
-**Backend:** Node.js, Bun, Hono, Flask, Docker
-**Data:** PostgreSQL, Supabase, Qdrant, LanceDB, MongoDB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,swift,rust,react,nextjs,vue,threejs,nodejs,bun,docker,postgres,supabase,mongodb" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TerminalGravity&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 **[@TerminalGravity](https://github.com/TerminalGravity)** · **[LinkedIn](https://www.linkedin.com/in/jack-f-59268b113/)**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
