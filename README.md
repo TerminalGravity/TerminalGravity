@@ -1,24 +1,22 @@
 # Jack Felke
 
-AI engineer building local-first agent systems, MCP servers, developer tools, and multimodal workflows. I focus on practical software that helps people and agents retain context, coordinate work, and turn messy inputs into useful outputs.
+AI engineer building practical agent tools, MCP servers, and multi-host Hermes systems. I use small, local-first utilities to remove friction from my own workflow, then open-source the pieces that may help other operators.
 
-## Selected work
+## Personal tools I actively maintain
 
-- **[preflight](https://github.com/preflight-dev/preflight)** — MCP server for prompt preflight checks, cross-service context, session-history search, correction learning, and cost estimation.
-- **[codebrain](https://github.com/TerminalGravity/codebrain)** — Persistent context index that gives AI coding agents searchable memory across prior sessions.
-- **[agent-history-mcp](https://github.com/TerminalGravity/agent-history-mcp)** — Local MCP server for semantic search over Claude Code, Hermes, and other agent-session logs.
-- **[vizcraft](https://github.com/TerminalGravity/vizcraft)** — AI-native diagramming MCP server with an editable tldraw canvas and a tested TypeScript implementation.
-- **[muster](https://github.com/TerminalGravity/muster)** — Terminal standup card that combines repository hygiene, machine health, and current focus.
-- **[content-lens](https://github.com/TerminalGravity/content-lens)** — Speaker-aware, multimodal analysis pipeline for public video and content sources.
-- **[cld-tmux](https://github.com/TerminalGravity/cld-tmux)** — Small shell CLI for managing persistent Claude Code sessions with tmux.
+- **[lazyhermes](https://github.com/TerminalGravity/lazyhermes)** — Lazyssh-style launcher and fleet updater for selecting the correct Hermes profile or gateway across multi-user hosts.
+- **[lazyuser](https://github.com/TerminalGravity/lazyuser)** — Small terminal UI for filtering and switching Unix users from an administrative shell.
+- **[usability-heuristics-skills](https://github.com/TerminalGravity/usability-heuristics-skills)** — Ten agent skills that apply Nielsen’s usability heuristics to UI, CLI, APIs, jobs, migrations, configuration, and logs.
+- **[content-lens](https://github.com/TerminalGravity/content-lens)** — Tested pipeline for turning public media into canonical timelines and evidence-backed claims, quotes, actions, topics, and visual artifacts.
+- **[agent-history-mcp](https://github.com/TerminalGravity/agent-history-mcp)** — Read-only semantic search across local Claude Code, Hermes, and other agent-session stores.
+- **[muster](https://github.com/TerminalGravity/muster)** — Cross-host terminal standup covering Git hygiene, machine health, focus, and scheduled maintenance.
 
-## Current focus
+## Selected open-source work
 
-- Durable, local-first context for AI agents
-- Terminal-native orchestration and operator tooling
-- MCP servers with narrow, testable interfaces
-- Multimodal research and content-processing pipelines
+- **[preflight](https://github.com/preflight-dev/preflight)** — Prompt preflight checks, cross-service context, session-history search, correction learning, and cost estimation.
+- **[cld-tmux](https://github.com/TerminalGravity/cld-tmux)** — Minimal remote SSH/tmux persistence and project-session wrapper for Claude Code.
+- **[vizcraft](https://github.com/TerminalGravity/vizcraft)** — Versioned tldraw workspace with an MCP interface, editable UI, persistence, themes, and tested collaboration features.
 
-**Primary tools:** TypeScript, Python, Swift, Rust, React, LangGraph, MCP, Docker
+Trading and operating-business systems live in their dedicated organizations rather than this personal incubator account: [tgv-trading](https://github.com/tgv-trading), [rinn-group](https://github.com/rinn-group), and [azvapevending](https://github.com/azvapevending).
 
 [GitHub](https://github.com/TerminalGravity) · [LinkedIn](https://www.linkedin.com/in/jack-f-59268b113/)
