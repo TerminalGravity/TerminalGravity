@@ -9,7 +9,7 @@ AI engineer building practical agent tools, MCP servers, and multi-host Hermes s
 - **[usability-heuristics-skills](https://github.com/TerminalGravity/usability-heuristics-skills)** — Ten agent skills that apply Nielsen’s usability heuristics to UI, CLI, APIs, jobs, migrations, configuration, and logs.
 - **[content-lens](https://github.com/TerminalGravity/content-lens)** — Tested pipeline for turning public media into canonical timelines and evidence-backed claims, quotes, actions, topics, and visual artifacts.
 - **[agent-history-mcp](https://github.com/TerminalGravity/agent-history-mcp)** — Read-only semantic search across local Claude Code, Hermes, and other agent-session stores.
-- **[muster](https://github.com/TerminalGravity/muster)** — Cross-host terminal standup covering Git hygiene, machine health, focus, and scheduled maintenance.
+- **[ops-muster](https://github.com/TerminalGravity/ops-muster)** — Cross-host terminal standup covering Git hygiene, machine health, focus, and scheduled maintenance.
 
 ## Selected open-source work
 
