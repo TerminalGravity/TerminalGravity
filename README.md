@@ -2,7 +2,7 @@
 
 AI engineer building practical agent tools, MCP servers, and multi-host Hermes systems. I use small, local-first utilities to remove friction from my own workflow, then open-source the pieces that may help other operators.
 
-## Personal tools I actively maintain
+## Current personal tools and projects
 
 - **[lazyhermes](https://github.com/TerminalGravity/lazyhermes)** — Lazyssh-style launcher and fleet updater for selecting the correct Hermes profile or gateway across multi-user hosts.
 - **[lazyuser](https://github.com/TerminalGravity/lazyuser)** — Small terminal UI for filtering and switching Unix users from an administrative shell.
